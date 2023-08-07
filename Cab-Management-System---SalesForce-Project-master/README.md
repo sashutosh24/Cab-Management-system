@@ -1,4 +1,4 @@
-# Cab-Management-System---SalesForce-Project 12/04/2019
+# Car-RentalManagement-System---SalesForce-Project 12/04/2019
 
 This is a very basic `Cab Management System` made for SalesForce Platform as our Summer Training Project. 
 We developed it within 1 week, while learning SalesForce side by side, so it's not going to be the BEST logic or cleanest work/project you've ever seen.
