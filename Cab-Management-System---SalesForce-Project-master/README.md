@@ -6,15 +6,6 @@ This project was developed with the mindset of "Using SalesForce without letting
 We wanted to create a website where users can book a cab, get the cab assigned and then get the bills on their registered E-Mail IDs.All this on SalesForce platform, but the user won't see anything related to SalesForce. They should simply see the website, do their work and be done with it. That's it.
 
 
-#The Team
-
-Team had 6 members, and here are their names :
-
-1.) [Ashutosh Singh](https://github.com/sashutosh24)
-
-2.) [Raghav Sharma]
-
-3.)  Rasil Banga
 
 We're all in our 3rd year of college and are pursuing "C.S.E" from Northern India Engineering College (N.I.E.C).
 Not sure why, but we decided to go with the name "Cab Job" as our project name. Maybe because of some dirty reference lol.
