@@ -10,17 +10,11 @@ We wanted to create a website where users can book a cab, get the cab assigned a
 
 Team had 6 members, and here are their names :
 
-1.) [Dhruv Kanojia](https://github.com/Xonshiz)
+1.) [Ashutosh Singh](https://github.com/sashutosh24)
 
-2.) [Hinshu Jain](https://github.com/CrackedLearner)
+2.) [Raghav Sharma]
 
-3.) [Ankit Passi](https://github.com/ankitpassi141)
-
-4.) [Devesh Shyngle](https://github.com/deveshyngle)
-
-5.) [Raghav Sharma](https://github.com/dkrsharma73)
-
-6.)  Rasil Banga
+3.)  Rasil Banga
 
 We're all in our 3rd year of college and are pursuing "C.S.E" from Northern India Engineering College (N.I.E.C).
 Not sure why, but we decided to go with the name "Cab Job" as our project name. Maybe because of some dirty reference lol.
